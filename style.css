@@ -1,0 +1,46 @@
+/* Background Pattern Found at Link Below
+https://codepen.io/poonam-adlakha/pen/qBorjWY */
+
+body {
+background:  #ffb3c0  !important;
+    background-size: 100px 100px !important; 
+
+  cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>🐀 </text></svg>") 16 0,auto; /*!emojicursor.app*/
+
+
+
+
+}
+
+h1{
+  background-color: #000000 ;
+  color: #ffffff  !important;
+}
+
+h2{
+color: #000000  !important;
+  font-weight: bold !important;
+}
+
+.nav-link{
+  background-color: white !important;
+}
+
+button{
+  color: #000000  !important;
+  font-weight: bold !important;
+}
+
+#myCanvas{
+  border: 5px solid #000000 ;
+  border-radius: 30px;
+
+}
+a{
+  color: #000000  !important;;
+}
+
+.accordion{
+  width: 600px;
+  margin: auto;
+}
